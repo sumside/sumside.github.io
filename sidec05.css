@@ -11,6 +11,7 @@ border-left:none;
 border-right:none;
 padding: 0;
 }
+
 h1:after {
 content: "";
 position: absolute;
@@ -20,38 +21,4 @@ width: 0%;
 height: 0px;
 background: none;
 border-bottom: none;
-}
-
-/* H2 */
-.article h2{
-background:none;
-padding: 0;
-}
- 
-/* H3 */
-.article h3{
-border-top:none;
-border-bottom:none;
-border-left:none;
-border-right:none;
-padding: 0;
-}
- 
-/* H4 */
-.article h4{
-border-top:none;
-border-bottom:none;
-padding: 0;
-}
- 
-/* H5 */
-.article h5{
-border-bottom:none;
-padding: 0;
-}
- 
-/* H6 */
-.article h6{
-border-bottom:none;
-padding: 0;
 }
