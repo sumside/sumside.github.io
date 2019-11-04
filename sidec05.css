@@ -1,0 +1,57 @@
+@import url(https://fonts.googleapis.com/css?family=M+PLUS+1p:400,500,700,800,900|Noto+Sans+JP:400,500,700,900&display=swap&subset=japanese);
+
+
+/* 見出しカスタマイズ */
+
+/* H1 */
+h1{
+border-top:none;
+border-bottom:none;
+border-left:none;
+border-right:none;
+padding: 0;
+}
+h1:after {
+content: "";
+position: absolute;
+left: 0;
+bottom: 0px;
+width: 0%;
+height: 0px;
+background: none;
+border-bottom: none;
+}
+
+/* H2 */
+.article h2{
+background:none;
+padding: 0;
+}
+ 
+/* H3 */
+.article h3{
+border-top:none;
+border-bottom:none;
+border-left:none;
+border-right:none;
+padding: 0;
+}
+ 
+/* H4 */
+.article h4{
+border-top:none;
+border-bottom:none;
+padding: 0;
+}
+ 
+/* H5 */
+.article h5{
+border-bottom:none;
+padding: 0;
+}
+ 
+/* H6 */
+.article h6{
+border-bottom:none;
+padding: 0;
+}
