@@ -5,19 +5,19 @@
 
 /* H1 */
 h1 {
-border-top:none;
-border-bottom:none;
-border-left:none;
-border-right:none;
-padding: 0;
+border-top:none !important;
+border-bottom:none !important;
+border-left:none !important;
+border-right:none !important;
+padding: 0 !important;
 }
 
 h1:after {
-border-top:none;
-border-bottom:none;
-border-left:none;
-border-right:none;
-padding: 0;
-background: none;
-border-bottom:none;
+border-top:none !important;
+border-bottom:none !important;
+border-left:none !important;
+border-right:none !important;
+padding: 0 !important;
+background: none !important;
+border-bottom:none !important;
 }
